@@ -26,12 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Dr. Ligia Ciocci Brazzano
+My name is Ligia Ciocci Brazzano, and I’m a physicist from the Faculty of Exact and Natural Sciences at the University of Buenos Aires. I obtained my PhD in 2012. I am currently an Assistant Professor in the Department of Physics, Faculty of Engineering, University of Buenos Aires (FIUBA), and an Associate Researcher at CONICET, Argentina. I am the Director of the Specialization in Optoelectronic Engineering at FIUBA. My research at GLOmAe (Grupo de Láser, Óptica de Materiales y Aplicaciones Electromagnéticas) focuses on optics, optoelectronics, dielectric and ultrasonic sensing, signal processing, and Bayesian data analysis.
 
-Adjunct Researcher at CONICET & Associate Professor at the Faculty of Engineering, University of Buenos Aires (FIUBA).
-
-Doctorate in Physics (UBA) with a focus on optics, polarization, and electromagnetic properties of materials. Current research includes optoacoustics, dielectric characterization, sensor design optimization, and Bayesian spectral analysis. Experienced in scientific computing and modeling with Python, C, MATLAB, and Mathematica.
-
-Director of the Specialization Degree in Optoelectronic Engineering (FIUBA).
-
-🌐 [ORCID Profile](https://orcid.org/0000-0002-1558-9300) Scholar, or just disable all of them.
+🌐 [ORCID Profile](https://orcid.org/0000-0002-1558-9300) 
